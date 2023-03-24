@@ -1,0 +1,8 @@
+protobuf
+opencv-python
+cvzone
+numpy
+pyautogui   
+cvzone
+mediapipe
+tensorflow
