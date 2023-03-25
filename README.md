@@ -1,4 +1,4 @@
-# Apki Aawaz
+# Aap-ki-Aawaz
 
 
 Our web application is specifically designed to help bridge the communication gap between individuals who are deaf or hard of hearing and those who do not know Indian Sign Language. With the help of this application, users can easily communicate with each other using sign language gestures that will be translated into letters.
@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/68243425/227705573-3eb4b5f9-17e7-4604-
 
 ## Presentation 
 
-### [Apki Aawaz Presentation.pdf](https://github.com/jay-arora31/Apki-Aawaz/files/11068500/Apki.Aawaz.pdf)
+### [Aap-ki-Aawaz Presentation.pdf](https://github.com/jay-arora31/Apki-Aawaz/files/11068500/Apki.Aawaz.pdf)
 
 
 
@@ -37,12 +37,12 @@ Demonstration of the model linking frequently asked questions to letters, making
 Clone the project
 
 ``` sh
-git clone https://github.com/jay-arora31/Apki-Aawaz.git
+git clone https://github.com/jay-arora31/Aap-ki-Aawaz.git
 ```
 
 Go to the project directory
 ``` sh
-cd Apki-Aawaz
+cd Aap-ki-Aawaz
 
 ```
 
