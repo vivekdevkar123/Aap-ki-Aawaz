@@ -13,7 +13,8 @@ https://user-images.githubusercontent.com/68243425/227705573-3eb4b5f9-17e7-4604-
 
 ## Presentation 
 
-### [Apki Aawaz Presentation.pdf](https://github.com/radhika0910/Apki-Awaz/files/11066090/Hackathon.pdf)
+### [Apki Aawaz Presentation.pdf](https://github.com/jay-arora31/Apki-Aawaz/files/11068500/Apki.Aawaz.pdf)
+
 
 
 ## Model demonstration 
