@@ -1,6 +1,6 @@
 # Apki-Awaz
 
- This web application allows you to communicate using Indian Sign Language, which is used by millions of people in India who are deaf or hard-of-hearing. By using this application, you can type messages that will be displayed in sign language or use your hands to create gestures that will be "
+ This web application allows you to communicate using Indian Sign Language, which is used by millions of people in India who are deaf or hard-of-hearing. By using this application, you can type messages that will be displayed in sign language or use your hands to create gestures that will be 
          translated into text messages. This application is meant to bridge the communication gap between those who know 
          sign language and those who do not, making communication easier and more accessible for everyone.
 
@@ -26,12 +26,12 @@ Demonstration of the model linking frequently asked questions to letters, making
 Clone the project
 
 ``` sh
-git clone https://github.com/radhika0910/Apki-Awaz.git
+git clone https://github.com/jay-arora31/Apki-Awaj.git
 ```
 
 Go to the project directory
 ``` sh
-cd Apki-Awaz
+cd Apki-Awaj
 ```
 
 Install dependencies
@@ -42,9 +42,27 @@ pip install -r requirements.txt
 
 Start the server
 
+### Our project aims to develop an application that facilitates communication for individuals who are deaf or hard of hearing. The app comprises of three components:
+
+
+#### 1. Sign-to-text converter: This feature allows users to input sign language, which is then converted to text and displayed on the screen.
 ```sh
 streamlit run app.py
 ```
+
+#### 2. FAQ section: The app includes a FAQ section that is linked to specific letters. Users can select a letter and view the corresponding FAQ.
+
+```sh
+streamlit run text.py
+```
+
+#### 3. Voice converter: The app also includes a voice converter that can read out the answers to the FAQs
+```sh
+streamlit run speak.py
+```
+
+
+
 
 ## Team Web Warriors
 - [@ jay-arora31](https://github.com/jay-arora31)
